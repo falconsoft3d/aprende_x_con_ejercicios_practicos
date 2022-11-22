@@ -31,6 +31,10 @@ Todos los cursos estan enfocados a aprender programación pero con un enfoque pr
 - Reglas de dominio.
 - Reportes en exel.
 - Importar csv.
+- Controladores.
 ## C6- Aprende programar avanzado en Odoo con ejercicios prácticos.
+- Desarrollo de un sistema para el control de gymnasio
+- Desarrollo de un módulo de integración con RPC.
 ## C7- Aprende programación web en Odoo con ejercicios prácticos.
+- Diseño Web.
 
