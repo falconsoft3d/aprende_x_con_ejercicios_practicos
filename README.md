@@ -22,6 +22,9 @@ Todos los cursos estan enfocados a aprender programación pero con un enfoque pr
 - Compartir un repo.
 - Trabar con el proyecto de git
 ## C4- Aprende a maquetar con Bootstrap con ejercicios prácticos.
+- Grid
+- Colores
+- Componentes
 ## C5- Aprende lo basico para programar en Odoo con ejercicios prácticos.
 - Instalar Odoo para programar con Visual Studio Code.
 - Crear Modulo simple.
