@@ -1,6 +1,14 @@
 # Aprende con ejercicios prácticos
 Todos los cursos estan enfocados a aprender programación pero con un enfoque práctico
 
+```
+Marlon Falcón Hernández | Valencia | Spain
+* ERP, CRM y Software: https://www.marlonfalcon.com
+» Email: mfalconsoft@gmail.com , falconsof.3d@gmail.com
+» Github: https://github.com/falconsoft3d
+» linkedin: https://linkedin.com/in/marlon-falcón-3a2aa9a4
+```
+
 # Cursos
 
 ## C1- Aprende Odoo funcional con ejercicios prácticos.
