@@ -13,6 +13,17 @@ Todos los cursos estan enfocados a aprender programación pero con un enfoque pr
 - Técnico: Usuarios, Permisos, Cron.
 
 ## C2- Aprende a programar en Python con ejercicios prácticos.
+- Variables y Constantes
+- Listas, Diccionarios.
+- Clases.
+- Decoradores.
+- If else.
+- case.
+- librerias.
+- web en flask.
+- web en Django.
+- Deploy usando Docker y DO.
+
 ## C3- Aprende Git con ejercicios prácticos.
 - Crear un Repo
 - Crear una Rama
