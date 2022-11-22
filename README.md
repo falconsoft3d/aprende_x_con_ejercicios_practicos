@@ -9,7 +9,9 @@ Todos los cursos estan enfocados a aprender programación pero con un enfoque pr
 - Compras
 - Inventario
 - Facturación
-- Técnico
+- Modificaciones Funcionales
+- Técnico: Usuarios, Permisos, Cron.
+
 ## C2- Aprende a programar en Python con ejercicios prácticos.
 ## C3- Aprende a maquetar con Bootstrap con ejercicios prácticos.
 ## C4- Aprende lo basico para programar en Odoo con ejercicios prácticos.
