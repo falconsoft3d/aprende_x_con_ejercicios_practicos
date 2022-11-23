@@ -1,6 +1,9 @@
 # Aprende con ejercicios prácticos
 Todos los cursos estan enfocados a aprender programación pero con un enfoque práctico
 
+![Alt text](https://github.com/falconsoft3d/images/blob/main/marlon_odoo.png?raw=true?raw=true "Marlon Odoo")
+
+
 ```
 Marlon Falcón Hernández | Valencia | Spain
 * ERP, CRM y Software: https://www.marlonfalcon.com
