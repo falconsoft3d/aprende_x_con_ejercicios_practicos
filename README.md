@@ -1,5 +1,5 @@
 # Aprende con ejercicios prácticos
-Todos los cursos estan enfocados a aprender programación pero con un enfoque práctico
+Todos los cursos estan enfocados a aprender programación pero con un enfoque práctico, en cada curso dejare una copia de los ejercicios para que no te pierdas nada.
 
 ![Alt text](https://github.com/falconsoft3d/images/blob/main/marlon_odoo.png?raw=true?raw=true "Marlon Odoo")
 
@@ -43,10 +43,12 @@ Marlon Falcón Hernández | Valencia | Spain
 - Publicar tu pagina web en git
 - Compartir un repo.
 - Trabar con el proyecto de git
+
 ## C4- Aprende a maquetar con Bootstrap con ejercicios prácticos.
 - Grid
 - Colores
 - Componentes
+
 ## C5- Aprende lo basico para programar en Odoo con ejercicios prácticos.
 - Instalar Odoo para programar con Visual Studio Code.
 - Crear Modulo simple.
@@ -64,9 +66,11 @@ Marlon Falcón Hernández | Valencia | Spain
 - Reportes en exel.
 - Importar csv.
 - Controladores.
+
 ## C6- Aprende programar avanzado en Odoo con ejercicios prácticos.
 - Desarrollo de un sistema para el control de gymnasio
 - Desarrollo de un módulo de integración con RPC.
+
 ## C7- Aprende programación web en Odoo con ejercicios prácticos.
 - Diseño Web.
 
